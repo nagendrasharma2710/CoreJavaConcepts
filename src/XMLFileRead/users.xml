@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User>
+        <id>101</id>
+        <firstName>MyToshika</firstName>
+        <lastName>It Solution</lastName>
+        <email>info@mytoshikaitSolution.com</email>
+        <phone>8988978778</phone>
+        <age>03</age>
+        <gender>company</gender>
+        <address>Noida</address>
+    </User>
+    <User>
+        <id>102</id>
+        <firstName>Dharmendra</firstName>
+        <lastName>Kumar</lastName>
+        <email>dharam@yahoo.com</email>
+        <phone>88978778</phone>
+        <age>24</age>
+        <gender>male</gender>
+        <address>faridabad</address>
+    </User>
+    <User>
+        <id>103</id>
+        <firstName>Nagendra</firstName>
+        <lastName>Sharma</lastName>
+        <email>nagendra123@gmail.com</email>
+        <phone>7787444778</phone>
+        <age>24</age>
+        <gender>male</gender>
+        <address>greater Noida</address>
+     </User>
+</Users>
